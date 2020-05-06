@@ -2,8 +2,8 @@ import tkinter as tk
 import spotipy
 import spotipy.util as util
 
-CLIENT_ID = "87ba1dfef424439db5fb3f67bd501c90"
-CLIENT_SECRET = "74266ced88c1419e961e0c11dd22d1c2"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 REDIRECT_URI = "http://localhost:8888/callback/"
 SCOPE = 'playlist-modify-public'
 
