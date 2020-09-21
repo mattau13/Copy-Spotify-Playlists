@@ -1,4 +1,4 @@
-# Copy-Spotify-Playlists
+# Spotify-Playlist-Copier
 A Python application that allows users to copy other Spotify users' playlists onto their own Spotify accounts. Created using the Spotify API via the Spotipy Python library.
 
 # How to use:
