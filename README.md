@@ -2,7 +2,7 @@
 A Python application that allows users to copy other Spotify users' playlists onto their own Spotify accounts. Created using the Spotify API via the Spotipy Python library.
 
 # How to use:
-The GUI is rather intuitive. Input your spotify username, the username of the user whose playlist you wish to copy, and the name of that Spotify playlist. Then, click the 'copy playlist' button, and (after authentication), the playlist will be copied to your Spotify account.
+Input your spotify username, the username of the user whose playlist you wish to copy, and the name of that Spotify playlist. Then, click the 'copy playlist' button, and (after authentication), the playlist will be copied to your Spotify account.
 
 # Screenshot
 ![](UI-Image.PNG)
